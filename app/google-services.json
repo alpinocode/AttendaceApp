@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "75679374587",
+    "firebase_url": "https://attendance-app-ba14d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "attendance-app-ba14d",
+    "storage_bucket": "attendance-app-ba14d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75679374587:android:29ab9d53c7bedb897ca45e",
+        "android_client_info": {
+          "package_name": "com.example.attendaceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASot7RlPgpXJu8KC_-t0QPcC05CW1uc_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
